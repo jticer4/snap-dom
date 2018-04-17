@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="e8fcc830-5299-4c5c-b7db-c2ca0824ea94" name="snap-dom" url="http://bootcamp-coders.cnm.edu/~jticer/snap-dom">
+        <fileTransfer host="bootcamp-coders.cnm.edu" port="22" rootFolder="/home/jticer/public_html/snap-dom" accessType="SFTP" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
